@@ -12,6 +12,7 @@
     "importHelpers": true,
     "target": "es2015",
     "typeRoots": [
+      "src/typings.d.ts",
       "node_modules/@types"
     ],
     "lib": [
